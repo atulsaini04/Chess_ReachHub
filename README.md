@@ -10,8 +10,8 @@ This project is a chess dashboard that utilizes React.js for the frontend, FastA
 
 ## Prerequisites
 
-- Node.js (for the frontend)
-- Python (for the backend)
+- React.js (for the frontend)
+- FastApi (for the backend)
 
 ## Getting Started
 
